@@ -26,7 +26,7 @@ Steps:-
 8. - Model Architecture.
 
 Resources used:- 
-Flickr8k Dataset from Kaggle: 8000 Images, per image 5 captions
+Flickr8k Dataset from Kaggle:
 8000 images
 5 captions for each image
 
