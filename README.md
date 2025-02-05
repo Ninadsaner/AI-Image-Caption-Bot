@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1fe72e4-a862-41b8-b87d-228b204079b8)![image](https://github.com/user-attachments/assets/273a6901-b230-4c56-806e-4339cd983e6e)# AI-Image-Caption-Bot
+# AI-Image-Caption-Bot
 
 Image captioning is the task of generating a descriptive and appropriate sentence of a given image.
 
@@ -26,7 +26,7 @@ Steps:-
 8. - Model Architecture.
 
 Resources used:- 
-Flickr8k Dataset from Kaggle:
+Flickr8k Dataset from Kaggle: 8000 Images, per image 5 captions
 8000 images
 5 captions for each image
 
